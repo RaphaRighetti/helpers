@@ -9,6 +9,7 @@ _Instalação_
 
 - [ ] npm i redux react-redux;
 - [ ]  npm i --save @redux-devtools/extension;
+- [ ]  npm i redux-thunk;
 
 _Criar dentro do diretório src:_
 
